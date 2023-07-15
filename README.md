@@ -31,10 +31,12 @@
 ## 12月
 
 |                             题目                             |                     解题步骤                      | 难度 |      标签      | 大厂面试题 |
-| :----------------------------------------------------------: | :-----------------------------------------------: | :------------: | :------------: | :--------: |
+| :----------------------------------------------------------: | :-----------------------------------------------: | :--: | :------------: | :--------: |
 | [找到最近的有相同 X 或 Y 坐标的点](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | https://www.cnblogs.com/crazypigf/p/17324001.html | 简单 |      数组      |     ❤️      |
 | [移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                   | 中等 |  数组、字符串  |            |
 | [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/) |                                                   | 简单 | 哈希表、字符串 |            |
+
+
 
 # 2023年
 
