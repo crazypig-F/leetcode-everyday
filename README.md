@@ -30,7 +30,7 @@
 
 ## 12月
 
-|                             题目                             |                           解题步骤                           | 难度 |      标签      | 大厂面试题 |
+|                             题目                          |                           解题步骤                           | &nbsp;难度&nbsp; |      标签      | 大厂面试题 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :------------: | :--------: |
 | [找到最近的有相同 X 或 Y 坐标的点](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [个人题解](https://www.cnblogs.com/crazypigf/p/17324001.html)、[leetcode官方题解](https://www.cnblogs.com/crazypigf/p/17324001.html) | 简单 |      数组      |     ❤️      |
 | [移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                              | 中等 |  数组、字符串  |            |
