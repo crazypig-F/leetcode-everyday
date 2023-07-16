@@ -15,34 +15,18 @@
 
 # Features
 
-- [2022年](#2022年)
-    - [12月](#12月)
 - [2023年](#2023年)
-    - [01月](#01月)
-    - [02月](#02月)
-    - [03月](#03月)
-    - [04月](#04月)
-    - [05月](#05月)
-    - [06月](#06月)
     - [07月](#07月)
-
-# 2022年
-
-## 12月
-
-|                             题目                             |                           解题步骤                           | 题目难度 |      标签      | 大厂面试题 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :------------: | :--------: |
-| [找到最近的有相同 X 或 Y 坐标的点](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [个人题解](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/solution/zhao-dao-zui-jin-de-you-xiang-tong-x-huo-36f3/)、[leetcode](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/solution/zhao-dao-zui-jin-de-you-xiang-tong-x-huo-x900/) |   简单   |      数组      |            |
-| [移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                              |   中等   |  数组、字符串  |            |
-| [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/) |                                                              |   简单   | 哈希表、字符串 |     ❤️      |
 
 # 2023年
 
-## 04月
-
-## 05月
-
-## 06月
-
 ## 07月
+
+|                             题目                             |                           解题步骤                           | 题目难度 |     标签     | 面试题 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :----------: | :----: |
+|      [两数之和](https://leetcode.cn/problems/two-sum/)       | [我的题解](https://leetcode.cn/problems/two-sum/solution/liang-shu-zhi-he-ha-xi-biao-by-crazypig-77vw/) |   简单   | 数组、哈希表 |   ❤️    |
+|  [两数相加](https://leetcode.cn/problems/add-two-numbers/)   | [我的题解](https://leetcode.cn/problems/add-two-numbers/solution/liang-shu-xiang-jia-by-crazypig-uq9h/)、[leetcode](https://leetcode.cn/problems/add-two-numbers/solution/liang-shu-xiang-jia-by-leetcode-solution/) |   中等   |     链表     |   ❤️    |
+| [两数相加 II](https://leetcode.cn/problems/add-two-numbers-ii/) | [leetcode](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) |   中等   |   栈、链表   |   ❤️    |
+| [矩阵中的和](https://leetcode.cn/problems/sum-in-a-matrix/)  | [leetcode](https://leetcode.cn/problems/sum-in-a-matrix/solution/ju-zhen-zhong-de-he-by-leetcode-solution-88bx/) |   中等   |  排序、矩阵  |        |
+| [K 件物品的最大和](https://leetcode.cn/problems/k-items-with-the-maximum-sum/) | [leetcode](https://leetcode.cn/problems/k-items-with-the-maximum-sum/solution/k-jian-wu-pin-de-zui-da-he-by-leetcode-s-a97g/) |   简单   |     贪心     |        |
 
